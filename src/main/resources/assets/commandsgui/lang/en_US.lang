@@ -1,3 +1,5 @@
 ﻿gui.close=Close
 gui.params=Parameters: (count, player):
 gui.commands=Commands:
+key.categories.gui=CommandsGUI
+key.keys.gui=Show Interface

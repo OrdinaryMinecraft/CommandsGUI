@@ -11,7 +11,7 @@ import ru.flametaichou.commandsgui.gui.GuiCommands;
 
 public final class SkillKeyHandler {
     public static final SkillKeyHandler INSTANCE = new SkillKeyHandler();
-    public final KeyBinding keyGui = new KeyBinding("key.keys.gui", Keyboard.KEY_H, "key.categories.gui");
+    public final KeyBinding keyGui = new KeyBinding("key.keys.gui", Keyboard.KEY_G, "key.categories.gui");
 
     private SkillKeyHandler() {
         ClientRegistry.registerKeyBinding(keyGui);
