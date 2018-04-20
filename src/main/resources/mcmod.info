@@ -1,15 +1,15 @@
 [
 {
-  "modid": "levelup",
-  "name": "Level Up!",
+  "modid": "commandsgui",
+  "name": "CommandsGUI!",
   "description": "",
-  "version": $version,
+  "version": 0.1,
   "credits": "",
   "logoFile": "",
-  "mcversion": $mcversion,
-  "url": "https://github.com/OrdinaryMinecraft/LevelUp",
+  "mcversion": 1.7.10,
+  "url": "https://github.com/OrdinaryMinecraft/CommandsGUI",
   "updateUrl": "",
-  "authorList": ["PowerUp217","GotoLink","flametaichou"],
+  "authorList": ["flametaichou"],
   "parent":"",
   "screenshots": [],
   "dependencies": []

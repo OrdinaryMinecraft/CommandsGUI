@@ -8,7 +8,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.common.config.Configuration;
 import ru.flametaichou.commandsgui.Util.ConfigHelper;
 
-@Mod(modid = CommandsGui.ID, name = "CommandsGui", version = "0.1")
+@Mod(modid = CommandsGui.ID, name = "CommandsGui", version = "0.1", acceptableRemoteVersions="*")
 public final class CommandsGui {
     public final static String ID = "commandsgui";
     @Mod.Instance(value = ID)
