@@ -25,7 +25,7 @@ public class ConfigHelper {
             "/plot forsale",
             "/help",
             "/t kick",
-            "plot notforsale",
+            "/plot notforsale",
 
             "/t new",
             "/t toggle pvp",

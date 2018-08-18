@@ -1,5 +1,5 @@
 gui.close=Закрыть
 gui.params=Параметры: (количество, игрок):
 gui.commands=Команды:
-key.categories.gui=CommandsGUI
-key.keys.gui=Открыть интерфейс
+commandsgui.category=CommandsGUI
+commandsgui.key.opengui=Открыть интерфейс
